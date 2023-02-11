@@ -10,6 +10,7 @@ body {
     background-size: 1425px 650px;
     background-repeat: no-repeat;
     height: 640px;
+    margin-bottom: 80px;
 }
 
 .banner-content {
@@ -22,4 +23,26 @@ body {
 
 .banner-content h1 {
     font-size: 3em;
+}
+
+/* OverView-years */
+
+
+.overview-years-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.overview-img {
+    width: 40%;
+}
+
+.overview-img img {
+    max-width: 80%;
+}
+
+.overview-content {
+    width: 40%;
 }
