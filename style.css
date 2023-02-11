@@ -125,6 +125,8 @@ body {
 
 .future-container {
     width: 35%;
+    margin-top: 50px;
+    margin-right: 150px;
 }
 
 .future-container small {
@@ -144,8 +146,31 @@ body {
 
 .subscribe-container {
     width: 35%;
-    text-align: center;
+    text-align: left;
 }
+
+.subscribe-container small {
+    display: block;
+}
+
+.subscribe-container input {
+    background-color: black;
+    padding: 15px 40px;
+    border-radius: 5px;
+    border-color: white;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.subscribe-container button {
+    padding: 15px 45px;
+    border-radius: 10px;
+    background-color: rgb(31, 131, 224);
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
 
 
 
