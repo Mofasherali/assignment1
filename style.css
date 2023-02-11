@@ -112,3 +112,42 @@ body {
 }
 
 /* MindSet end */
+
+/* Footer Start */
+.footer {
+    background-color: black;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    color: white;
+    height: 400px;
+}
+
+.future-container {
+    width: 35%;
+}
+
+.future-container small {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.future-container h1 {
+    font-size: 2em;
+}
+
+.media span {
+    margin-right: 15px;
+
+}
+
+.subscribe-container {
+    width: 35%;
+    text-align: center;
+}
+
+
+
+
+/* Footer End */
