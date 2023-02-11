@@ -25,8 +25,7 @@ body {
     font-size: 3em;
 }
 
-/* OverView-years */
-
+/* OverView-years Start */
 
 .overview-years-div {
     display: flex;
@@ -47,6 +46,32 @@ body {
     width: 40%;
 }
 
+.overview-content h1 {
+    font-size: 2.5em;
+}
+
 .tick-icon span {
     color: green;
 }
+
+/* OverView-years Start */
+
+
+/* My Plans Start */
+.my-plans {
+    margin-bottom: 80px;
+}
+
+.my-plans-header {
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 50px;
+}
+
+.my-plan-lists {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+/* My Plans end */
