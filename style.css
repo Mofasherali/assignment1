@@ -75,3 +75,40 @@ body {
 }
 
 /* My Plans end */
+
+/* MindSet start */
+
+.mindset-container {
+    margin-bottom: 80px;
+    background-image: url(./images/gradient1.png), url(./images/watch.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 380px;
+}
+
+.mindset-header {
+    color: white;
+    font-size: 1.6em;
+    position: relative;
+    top: 115px;
+    left: 180px;
+}
+
+.mindset-button {
+    position: relative;
+    top: 115px;
+    left: 180px;
+}
+
+.mindset-button button {
+    color: blue;
+    font-weight: bold;
+    background-color: white;
+    font-size: 20px;
+    padding: 15px 30px;
+    border-radius: 10px;
+    border: none;
+}
+
+/* MindSet end */
