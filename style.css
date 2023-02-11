@@ -46,3 +46,7 @@ body {
 .overview-content {
     width: 40%;
 }
+
+.tick-icon span {
+    color: green;
+}
